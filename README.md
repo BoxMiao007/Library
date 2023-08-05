@@ -5,7 +5,7 @@
 **personal use**
 
 ## Trackers
-trackers_best (133) --- [link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt) ---
+trackers_best (133 trackers) --- [link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt) ---
 #### Tracker Source:
 * https://github.com/ngosang/trackerslist
 * https://github.com/XIU2/TrackersListCollection
