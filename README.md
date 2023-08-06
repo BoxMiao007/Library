@@ -6,7 +6,7 @@
 
 ## Trackers
 
-* **Best Tracker list &nbsp; (100 trackers)** &nbsp;&emsp;&ensp;**[Link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt)**
+* **Best Tracker list &nbsp; (138 trackers)** &nbsp;&emsp;&ensp;**[Link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt)**
 * **All Tracker list &emsp; (1134 trackers)**&nbsp;&emsp; **[Link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers.txt)**
 
 #### Tracker Source:
