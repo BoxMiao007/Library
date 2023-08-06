@@ -6,8 +6,8 @@
 
 ## Trackers
 
-* **[BEST Tracker list](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt)**  &ensp; **(1 trackers)**
-* **[ALL Tracker list](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers.txt)**  &emsp; **(2 trackers)**
+* **Best Tracker list &nbsp; (100 trackers)** &nbsp;&emsp;&ensp;**[Link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt)**
+* **All Tracker list &emsp; (2000 trackers)**&nbsp;&emsp; **[Link](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers.txt)**
 
 #### Tracker Source:
 * https://github.com/XIU2/TrackersListCollection
