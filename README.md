@@ -6,9 +6,9 @@
 
 ## Trackers
 
-* **Best Tracker list &nbsp; (202 trackers)**   
+* **Best Tracker list &nbsp; (201 trackers)**   
 _**[GitHub](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt)**&emsp;&emsp;**[jsDelivr](https://cdn.jsdelivr.net/gh/BoxMiao007/Library/Trackers/trackers_best.txt)**_
-* **All Tracker list &emsp; (275 trackers)**   
+* **All Tracker list &emsp; (276 trackers)**   
  _**[GitHub](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers.txt)**&emsp;&emsp;**[jsDelivr](https://cdn.jsdelivr.net/gh/BoxMiao007/Library/Trackers/trackers.txt)**_
 
 #### Tracker Source:
