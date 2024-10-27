@@ -1,4 +1,4 @@
-[![Last update](https://img.shields.io/badge/Last%20update-2024/10/24-%232ea043?style=flat-square&logo=github)](#)
+[![Last update](https://img.shields.io/badge/Last%20update-2024/10/27-%232ea043?style=flat-square&logo=github)](#)
 [![GitHub](https://img.shields.io/github/license/BoxMiao007/Library?style=flat-square&color=blue&logo=github)](https://raw.githubusercontent.com/BoxMiao007/Library/main/LICENSE)
 
 # Library
@@ -6,7 +6,7 @@
 
 ## Trackers
 
-* **Best Tracker list &nbsp; (138 trackers)**   
+* **Best Tracker list &nbsp; (171 trackers)**   
 _**[GitHub](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers_best.txt)**&emsp;&emsp;**[jsDelivr](https://cdn.jsdelivr.net/gh/BoxMiao007/Library/Trackers/trackers_best.txt)**_
 * **All Tracker list &emsp; (252 trackers)**   
  _**[GitHub](https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers.txt)**&emsp;&emsp;**[jsDelivr](https://cdn.jsdelivr.net/gh/BoxMiao007/Library/Trackers/trackers.txt)**_
