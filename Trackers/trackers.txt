@@ -224,7 +224,9 @@ udp://ismaarino.com:1234/announce
 udp://laestrygonian.ooguy.com:9001/announce
 udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
+udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
