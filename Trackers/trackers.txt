@@ -173,6 +173,7 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com:443/announce
 https://tracker.loligirl.cn/announce
 https://tracker.m-team.cc/announce.php
+https://tracker.maya.no.eu.org:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.moeking.me:443/announce
 https://tracker.opendev.cloud:443/announce
