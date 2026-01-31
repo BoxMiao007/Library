@@ -24,6 +24,7 @@ http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 http://finbytes.org:80/announce.php
 http://fosstorrents.com:6969/announce
+http://ftp.pet:6969/announce
 http://highteahop.top:6960/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
@@ -303,6 +304,7 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
+udp://tracker.sharebro.in:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
@@ -319,6 +321,7 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.umunu.ru:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
