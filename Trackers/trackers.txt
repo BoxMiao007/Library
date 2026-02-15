@@ -57,11 +57,13 @@ http://tk.greedland.net/announce
 http://tk.greedland.net:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
+http://tr.cili001.com:8070/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.23794.top:6969/announce
+http://tracker.alaskantf.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
@@ -94,6 +96,7 @@ http://tracker.sbsub.com:2710/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
+http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.valete.tf:9999/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
@@ -175,6 +178,7 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com:443/announce
 https://tracker.loligirl.cn/announce
 https://tracker.m-team.cc/announce.php
+https://tracker.manager.v6.navy:443/announce
 https://tracker.maya.no.eu.org:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.moeking.me:443/announce
@@ -267,6 +271,7 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-v6.opendev.cloud:8000/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
+udp://tracker.alaskantf.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -346,4 +351,5 @@ udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://yuki.bt.bontal.net:6969/announce
+udp://zer0day.ch:1337/announce
 wss://tracker.openwebtorrent.com:443/announce
